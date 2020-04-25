@@ -1,12 +1,13 @@
+
 @font-face {
-    font-family: 'SEGA LOGO FONT';
+    font-family: 'Minecraft Ten';
     font-style: normal;
     font-weight: normal;
-    src: local('SEGA LOGO FONT'), url('SEGA.woff') format('woff');
+    src: local('Minecraft Ten'), url('MinecraftTen-VGORe.woff') format('woff');
     }
 
     h1 {
-        font-family: 'SEGA LOGO FONT';
-        font-weight: 200;
+        font-family: 'Minecraft Ten';
+        font-weight: 100;
         color: #0ccac4;
     }
