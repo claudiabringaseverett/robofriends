@@ -7,9 +7,9 @@ export const robots = [
   },
   {
     id: 2,
-    name: 'Ervin Howell',
-    username: 'Antonette',
-    email: 'Shanna@melissa.tv'
+    name: 'Andre Everett',
+    username: 'Andre',
+    email: 'andre@gmail.com'
   },
   {
     id: 3,
